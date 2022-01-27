@@ -15,5 +15,11 @@ public class Aplicación {
 
         System.out.println("Este es mi Proyecto");
 
+        Pais pais1=new Pais("p001", "Argentina");
+        Pais pais2=new Pais("p002", "Brazil");
+        Pais pais3=new Pais("p003", "Bolivia");
+        Pais pais4=new Pais("p004", "Chile");
+        
+        System.out.println("");
     }
 }
